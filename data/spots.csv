@@ -1,0 +1,5 @@
+spot_id,name,lat,lon,timezone,beach_facing_deg
+1,Tabarka,36.954,8.758,Africa/Tunis,350
+2,Bizerte,37.274,9.874,Africa/Tunis,10
+3,Hammamet,36.400,10.617,Africa/Tunis,70
+4,Monastir,35.777,10.826,Africa/Tunis,80

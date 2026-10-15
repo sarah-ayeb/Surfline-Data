@@ -1,0 +1,4 @@
+{"latitude": 36.95, "longitude": 8.75, "hourly_units": {"wave_height": "m"},
+ "hourly": {"time": ["2026-10-13T00:00", "2026-10-13T01:00"],
+            "wave_height": [1.4, 1.5], "wave_period": [7.2, 7.4],
+            "wave_direction": [310, 312], "swell_wave_height": [1.1, 1.2]}}
